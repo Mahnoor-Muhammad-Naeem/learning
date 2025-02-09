@@ -6,5 +6,3 @@ Integrating data storage solutions
 Creating systems that integrate user-facing elements
 Understanding end-user requirements
 
-
-![https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.interviewbit.com%2Fpython-interview-questions%2F&psig=AOvVaw0t5dABtkk8AVO0jMt-kOj7&ust=1739193219585000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjF_PXVtosDFQAAAAAdAAAAABAR]()
