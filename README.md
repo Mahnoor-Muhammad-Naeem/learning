@@ -27,7 +27,7 @@ pip install django
 ## 4. Verify Installation
 ```sh
 python -m django --version
-
+```
 
 
 
