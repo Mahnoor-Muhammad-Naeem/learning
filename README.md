@@ -1,3 +1,36 @@
+# Setting up a Virtual Environment for Django
+
+## 1. Create a Virtual Environment
+```sh
+python -m venv env
+```
+
+## 2. Activate the Virtual Environment
+- **Windows (cmd):**
+  ```sh
+  env\Scripts\activate
+  ```
+- **Windows (PowerShell):**
+  ```sh
+  env\Scripts\Activate.ps1
+  ```
+- **Mac/Linux:**
+  ```sh
+  source env/bin/activate
+  ```
+
+## 3. Install Django
+```sh
+pip install django
+```
+
+## 4. Verify Installation
+```sh
+python -m django --version
+
+
+
+
 # learn_tech
 This is my learning repo.
 ## Basic Concepts 
