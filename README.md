@@ -7,17 +7,17 @@ python -m venv env
 
 ## 2. Activate the Virtual Environment
 - **Windows (cmd):**
-  ```sh
-  env\Scripts\activate
-  ```
+```sh
+env\Scripts\activate
+```
 - **Windows (PowerShell):**
-  ```sh
-  env\Scripts\Activate.ps1
-  ```
+```sh
+env\Scripts\Activate.ps1
+```
 - **Mac/Linux:**
-  ```sh
-  source env/bin/activate
-  ```
+```sh
+source env/bin/activate
+```
 
 ## 3. Install Django
 ```sh
