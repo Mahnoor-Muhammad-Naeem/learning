@@ -64,4 +64,4 @@ Designing and creating websites and applications
 Writing efficient, reusable, and testable Python code
 Integrating data storage solutions
 Creating systems that integrate user-facing elements
-Understanding end-user requirements
+Understanding end-user requirements.
